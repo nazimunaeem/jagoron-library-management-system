@@ -3,7 +3,6 @@
 
 A free, open-source library management system built with PHP & MySQL — designed for small public libraries.
 
-**Live Demo:** [jagoronpathagar.page.gd](https://jagoronpathagar.page.gd)
 
 ---
 
