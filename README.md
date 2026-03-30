@@ -44,27 +44,27 @@ Built with simplicity and scalability in mind, it works seamlessly on low-cost s
 ```bash
 git clone https://github.com/nazimunaeem/jagoron-library-management-system.git
 cd jagoron-library-management-system
-
-2️⃣ Setup Environment
+```
+###2️⃣ Setup Environment
 Move project to htdocs/ or server root
 Create a MySQL database
-3️⃣ Configure
-Edit file:
 
+###3️⃣ Configure
+Edit file:
 includes/config.php
 Set your database credentials.
-4️⃣ Import Database
+
+###4️⃣ Import Database
 Open phpMyAdmin
 Import:
-
 install.sql
 (Apply patch SQL files if available)
-5️⃣ Run Project
+
+###5️⃣ Run Project
 Visit:
-
 http://localhost/admin/
-Login:
 
+Login:
 Username: admin  
 Password: password
 📖 Full guide → INSTALL.md
@@ -75,13 +75,14 @@ Add New Language
 
 cp lang/en.php lang/xx.php
 Then translate values.
-📖 Details → lang/README.md
+###📖 Details → lang/README.md
 🛠️ Tech Stack
 Backend: PHP 7.4+
 Database: MySQL / MariaDB
 Architecture: Modular PHP (lightweight MVC-style)
 Deployment: Shared hosting compatible (InfinityFree, HelioHost, etc.)
-🤖 AI-Assisted Development
+
+###🤖 AI-Assisted Development
 This project follows a modern AI-assisted development workflow:
 💡 Idea, system design, and architecture defined by the author
 🤖 AI (Claude) used for:
@@ -90,40 +91,48 @@ Debugging
 Optimization suggestions
 🧪 Manual testing, validation, and refinement done by the author
 ⚡ Combining human creativity with AI efficiency
-📦 Use Cases
+
+###📦 Use Cases
 📖 Community libraries
 🏫 School libraries
 🕌 Madrasa libraries
 📚 NGO / rural knowledge centers
-📊 Roadmap
+
+###📊 Roadmap
 [ ] Barcode system for books
 [ ] SMS/email notification system
 [ ] REST API support
 [ ] Mobile-friendly UI upgrade
 [ ] Role-based access control (RBAC)
-🤝 Contributing
+
+###🤝 Contributing
 Contributions are welcome!
 Fork the repository
 Create a new branch
 Commit your changes
 Submit a Pull Request
-⭐ Support
+
+###⭐ Support
 If you find this project useful:
 ⭐ Star the repository
 🍴 Fork and improve
 💡 Share feedback and ideas
-📄 License
+
+###📄 License
 This project is licensed under the MIT License.
-🌐 Origin
+
+###🌐 Origin
 Developed for:
 জাগরণ পাঠাগার
 Debiganj, Panchagarh, Bangladesh
-🔗 https://jagoronpathagar.page.gd⁠�
-👤 Author
+🔗 https://jagoronpathagar.page.gd
+
+###👤 Author
 Nazim Uddin Naeem
 💻 Developer
 📊 Problem Solver
 🇧🇩 Building digital solutions for Bangladesh
-🚀 Vision
+
+###🚀 Vision
 To empower small libraries with simple, affordable, and scalable digital systems — bridging the gap between technology and grassroots education.
 
