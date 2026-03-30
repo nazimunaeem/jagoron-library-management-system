@@ -1,0 +1,15 @@
+# Database credentials - NEVER commit this!
+includes/config.php
+
+# Uploaded files
+uploads/
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
