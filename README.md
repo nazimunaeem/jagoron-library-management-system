@@ -23,7 +23,7 @@ A free, open-source library management system built with PHP & MySQL — designe
 
 1. Upload all files to `htdocs/`
 2. Edit `includes/config.php` with your DB credentials
-3. Import `install.sql` in phpMyAdmin
+3. Import `install.sql` in phpMyAdmin. Patch sqls too.
 4. Visit your site → login at `/admin/` with `admin` / `password`
 
 See [INSTALL.md](INSTALL.md) for full instructions.
